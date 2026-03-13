@@ -82,21 +82,7 @@ Actualmente también trabajo en el desarrollo del **Metaverso TecNM** utilizando
 </div>
 
 ---
-
-### 🏆 Trofeos
-
-<div align="center">
-
-![Trofeos](https://github-profile-trophy.vercel.app/?username=Aaron0305&theme=tokyonight&no-frame=true&column=6&margin-w=8)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=80&section=footer" />
-
-*Construyamos algo genial juntos.*
-
 </div>
